@@ -14,8 +14,6 @@
             <li><a href="http://127.0.0.1:8000/menu">menu</a></li>
         </ul>
     </header>
-    <h1>hello world</h1>
-    <h2>{{ $nome }}</h2>
-    <h3>{{ $tipologia }}</h3>
+    <h1>about</h1>
 </body>
 </html>
